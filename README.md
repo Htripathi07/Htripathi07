@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Hariom Tripathi</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-<img width="400" align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="code" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=htripathi07&label=Profile%20views&color=0e75b6&style=flat" alt="htripathi07" /> </p>
 
+- 👨‍💻 All of my projects are available at [https://htripathi07.github.io/](https://htripathi07.github.io/)
+
 - 📫 How to reach me **tripathihariom34@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xGApR9xyD9QV04I1NxXKqZvnICx4wYaf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/htripathi07" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=13930&format=png" alt="htripathi07" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/htripathi07" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=13930&format=png"" alt="htripathi07" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
    
