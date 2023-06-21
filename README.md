@@ -6,7 +6,7 @@
 
   Portfolio : https://htripathi07.github.io
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://htripathi07.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://htripathi07.github.io)
 
 - 📫 How to reach me **tripathihariom34@gmail.com**
 
