@@ -30,6 +30,6 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.creative-tim.com/blog/content/images/wordpress/2020/03/node-js-736399_1280.png" alt="nodejs" width="40" height="40"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" alt="react" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=htripathi07&show_icons=true&locale=en&theme=transparent" alt="htripathi07" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=htripathi07&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="htripathi07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=htripathi07&theme=transparent" alt="htripathi07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=htripathi07&theme=transparent&hide_border=true" alt="htripathi07" /></p>
