@@ -9,8 +9,11 @@
 
 
 - 📫 How to reach me **tripathihariom34@gmail.com**
+  
 - 💬 Ask me about *React ,HTML ,CSS Java, DSA ,JavaScript*
+  
 - 📫 Portfilio Link [https://htripathi07.github.io]
+  
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xGApR9xyD9QV04I1NxXKqZvnICx4wYaf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
