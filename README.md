@@ -14,7 +14,7 @@
   
 - 📫 Portfilio Link https://Htripathi07.github.io
   
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xGApR9xyD9QV04I1NxXKqZvnICx4wYaf/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_1AVjKmC54npmVeYb1U5vKh-nDX4Ou2-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
